@@ -11,7 +11,7 @@ message: Configuracion de uro en el servidor levantado
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    password: 123456789
+    password: 12345678
     url: jdbc:mysql://localhost:3306/vivafiaa?serverTimezone=UTC
     username: root
   jpa:
