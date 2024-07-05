@@ -12,7 +12,7 @@ spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     password: 12345678
-    url: jdbc:mysql://localhost:3306/vivafiapy?serverTimezone=UTC
+    url: jdbc:mysql://localhost:3306/vivaafia?serverTimezone=UTC
     username: root
   jpa:
     hibernate:
